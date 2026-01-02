@@ -1,0 +1,188 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌋",
+  "titre": "Évasion Volcanique et Douceur aux Açores",
+  "budget_total": "770 €/pers (estimation)",
+  "duree": "4 jours",
+  "temps_vol": "6h30 (depuis Paris, France, avec escale)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur à Ponta Delgada",
+      "legende": "Après votre vol, prenez le temps de vous installer et de découvrir le charme de Ponta Delgada. Flânez dans ses rues historiques, admirez l'architecture typique et savourez un premier dîner açorien pour une immersion en douceur.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Ponta Delgada (PDL)</strong>: Récupération des bagages et de votre voiture de location.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Détendez-vous et rafraîchissez-vous après le voyage.",
+        "🚶‍♂️ <strong>Balade dans le centre historique de Ponta Delgada</strong>: Découvrez les Portes de la Ville, l'église de São Sebastião et les ruelles pavées. Profitez de l'ambiance locale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        },
+        {
+          "nom_recherche": "Portas da Cidade, Ponta Delgada",
+          "categorie": "Monument",
+          "coords": { "lat": 37.7865, "lng": -25.6698 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Indispensable pour explorer l'île de São Miguel. Réservez à l'avance pour garantir la disponibilité et de meilleurs tarifs."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Dîner local",
+          "texte": "Goûtez aux spécialités açoriennes comme le poisson frais ou la \"carne de vaca\" (bœuf local) dans un restaurant du centre-ville."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Détente et Volcanisme à Furnas",
+      "legende": "Plongez au cœur de l'activité géothermique de São Miguel. Détendez-vous dans les eaux chaudes des sources thermales de Furnas et explorez un jardin botanique luxuriant, avant de savourer un plat cuit par la terre elle-même.",
+      "lieu": "Furnas",
+      "activites": [
+        "🌳 <strong>Visite du Parque Terra Nostra et bains thermaux</strong>: Profitez des piscines d'eau ferrugineuse chaude au milieu d'un magnifique jardin botanique. Une expérience relaxante unique.",
+        "🌋 <strong>Découverte des Fumerolles de Furnas</strong>: Observez les phénomènes volcaniques actifs, les sources d'eau chaude et les marmites où est préparé le célèbre \"Cozido das Furnas\".",
+        "🍽️ <strong>Déjeuner \"Cozido das Furnas\"</strong>: Savourez ce plat traditionnel cuit pendant des heures sous terre grâce à la chaleur volcanique. Une expérience culinaire incontournable."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parque Terra Nostra, Furnas",
+          "categorie": "Jardin botanique et thermes",
+          "coords": { "lat": 37.7738, "lng": -25.3134 }
+        },
+        {
+          "nom_recherche": "Caldeiras das Furnas, Furnas",
+          "categorie": "Sources géothermiques",
+          "coords": { "lat": 37.7730, "lng": -25.3140 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Conseil pour les bains",
+          "texte": "Les eaux ferrugineuses peuvent tacher les maillots de bain clairs. Prévoyez un maillot foncé ou un vieux maillot."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Réservation",
+          "texte": "Il est conseillé de réserver votre \"Cozido das Furnas\" à l'avance, surtout si vous souhaitez le déguster dans un restaurant spécifique."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Panoramas Époustouflants de Sete Cidades",
+      "legende": "Explorez l'ouest de l'île, célèbre pour ses paysages emblématiques. Admirez les vues imprenables sur les lacs jumeaux de Sete Cidades et découvrez la culture locale avec une visite de plantation d'ananas, pour une journée riche en découvertes visuelles et gustatives.",
+      "lieu": "Sete Cidades",
+      "activites": [
+        "👀 <strong>Miradouro da Vista do Rei</strong>: Profitez de la vue la plus célèbre sur les lacs bleu et vert de Sete Cidades. Un panorama à couper le souffle.",
+        "🚶‍♀️ <strong>Promenade autour de Lagoa do Canário et Miradouro da Boca do Inferno</strong>: Une courte marche facile mène à un autre point de vue spectaculaire sur les lacs et la côte. (Vérifier l'accès, parfois limité).",
+        "🍍 <strong>Visite d'une plantation d'ananas</strong>: Découvrez la culture de l'ananas des Açores dans des serres traditionnelles et dégustez le fruit local. Une activité douce et instructive."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Vista do Rei, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8596, "lng": -25.7905 }
+        },
+        {
+          "nom_recherche": "Miradouro da Boca do Inferno, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8631, "lng": -25.7801 }
+        },
+        {
+          "nom_recherche": "Ananases A Arruda, Ponta Delgada",
+          "categorie": "Plantation d'ananas",
+          "coords": { "lat": 37.7650, "lng": -25.6980 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Meilleur moment",
+          "texte": "Les vues sur Sete Cidades sont souvent plus claires le matin. Prévoyez d'y aller tôt pour éviter la foule et le brouillard."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Chaussures confortables",
+          "texte": "Même pour les balades douces, des chaussures de marche confortables sont recommandées pour profiter pleinement des sentiers."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez de vos dernières heures sur l'île pour quelques achats de souvenirs et une dernière immersion dans l'ambiance locale. Un marché coloré vous attend avant de prendre votre vol retour, la tête pleine de souvenirs açoriens.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "🛍️ <strong>Visite du Mercado da Graça</strong>: Découvrez le marché municipal de Ponta Delgada, riche en produits locaux frais, fromages, fruits exotiques et artisanat. Idéal pour les souvenirs.",
+        "🎁 <strong>Achats de souvenirs</strong>: Profitez des boutiques du centre-ville pour trouver des produits typiques des Açores (céramique, thé, liqueurs).",
+        "🛫 <strong>Départ de l'aéroport de Ponta Delgada (PDL)</strong>: Restitution de la voiture de location et vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado da Graça, Ponta Delgada",
+          "categorie": "Marché",
+          "coords": { "lat": 37.7876, "lng": -25.6705 }
+        },
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🧀",
+          "titre": "Produits locaux",
+          "texte": "Ne partez pas sans goûter le fromage de São Jorge ou le thé de Gorreana, des spécialités açoriennes."
+        },
+        {
+          "symbole": "✈️",
+          "titre": "Temps à l'aéroport",
+          "texte": "Prévoyez suffisamment de temps pour la restitution de la voiture et les formalités d'embarquement, surtout en haute saison."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 308 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 100 €/pers (location de voiture pour 4 jours)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 160 €/pers (40€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 150 €/pers (3 nuits en hôtel 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers (entrées parcs, thermes)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Printemps (Mai-Juin) pour la floraison", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures varient entre 14 et 20°C. Prévoir des couches de vêtements, un imperméable et des chaussures confortables pour la marche.", "symbole": "🌦️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour la location de voiture. La conduite se fait à droite et les routes sont bien entretenues, mais parfois sinueuses.", "symbole": "🚗" },
+    { "titre": "Le portugais est la langue officielle. L'anglais est parlé dans les zones touristiques. Un adaptateur n'est pas nécessaire (prises européennes).", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-PDL/2026-05-15/2026-05-19", "symbole": "🛬" },
+    { "legende": "Tourisme Açores", "titre": "Visit Azores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Exemple de loueur (Rent-a-Car)", "url": "https://www.sata.pt/en/rent-a-car", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/en/otempo/prev.localidade.html?localID=22&cidadeID=&resCon=1530", "symbole": "🌤️" }
+  ]
+}
